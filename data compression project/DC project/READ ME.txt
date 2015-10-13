@@ -1,0 +1,8 @@
+1) place the entire stuff into the bin folder of the java root directory.
+
+2) place the java.policy file into the path ..\java\jdk1.6.0\jre\lib\security\.
+
+3) javac huffman.java
+					// run the program
+4) appletviewer.exe huffman.java
+

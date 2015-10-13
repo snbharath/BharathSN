@@ -1,0 +1,3 @@
+phani,30/04/1980,KAR3357,Full
+bharath,28/01/1982,KAR72634,Full
+guru,1/02/1979,KAR8375,Full

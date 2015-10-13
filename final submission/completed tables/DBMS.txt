@@ -1,0 +1,79 @@
+LABEL table:-
+create table LABEL
+( name varchar(30) not null,
+  record_comapny varchar(30),
+  feature varchar(400),
+  Genre_style varchar(40),
+  primary key(name),
+  foreign key(Genre_style) references Genre(style));
+
+GENRE table:-
+create table GENRE
+( style varchar(30) not null,
+  summary varchar(300),
+  info varchar(300),
+  primary key(style));
+
+ALBUM table:-
+create table ALBUM
+( band_name varchar(30),
+  title varchar(30) not null,
+  duration varchar(10),
+  rating number(10,5),
+  review varchar(500),
+  type varchar(500),
+  release_date date,
+  primary key(title),
+  foreign key(band_name) references label(name));
+
+ARTIST/GROUP table:-
+create table ARTIST_GROUP
+( name varchar(30) not null,
+  year_fo varchar(200) not null,
+  origin varchar(200),
+  biography varchar(300),
+  style varchar(30),
+  primary key(name),
+  foreign key(style) REFERENCES GENRE (style));
+
+SONG table:-
+create table SONG
+( name varchar(50) not null,
+  recording_date date,
+  date_composed date,
+  album_name varchar(40),
+  primary key(name),
+  foreign key(album_name) references album(title),
+  foreign key(band_name) references label(name));
+
+TRACK table:-
+create table TRACK
+( track_num varchar(20) not null,
+  size_mb int not null,
+  length varchar(10),
+  frequency int,
+  channels int,
+  album_name varchar(40),
+  primary key(track_num),
+  foreign key(name) REFERENCES SONG(name),
+  foreign key(album_name) references album(title),
+  foreign key(band_name) references label(name));
+
+MARKETING table:-
+create table MARKETING
+( code_num varchar(10) not null,
+  production_cost varchar(30) not null,
+  cost_cd varchar(30),
+  net_profit varchar(30),
+  sales varchar(30),
+  album_name varchar(30),
+  primary key(code_num),
+  foreign key(album_name) references album(title));
+
+musical_inst table:-
+create table MUSICAL_INST
+( name varchar(40) not null,
+  type varchar(40) not null,
+  info varchar(500),
+  price varchar(10),
+  primary key(name));

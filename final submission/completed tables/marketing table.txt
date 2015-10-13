@@ -1,0 +1,68 @@
+insert into marketing
+values ('abc-001','$ 3.4 millons','$ 5','aronnd $ 40 million','around 10 million cds','21st Century Breakdown');
+
+insert into marketing
+values ('abc-002','$ 4.4 millons','$ 6','aronnd $ 25 million','around 18 million cds','American Idiot');
+
+insert into marketing
+values ('abc-003','$ 4.6 millons','$ 10','aronnd $ 15 million','around 20 million cds','A Beautiful Lie');
+
+insert into marketing
+values ('abc-004','$ 7 millon','$ 10','aronnd $ 15 million','around 10 million cds','A Thousand Suns');
+
+insert into marketing
+values ('abc-005','$ 5 millon','$ 6','aronnd $ 30 million','around 25 million cds','Hybrid Theory');
+
+insert into marketing
+values ('abc-006','$ 6 millon','$ 7','aronnd $ 27 million','around 23 million cds','Meteora');
+
+insert into marketing
+values ('abc-007','$ 7 millon','$ 7','aronnd $ 17 million','around 13 million cds','Minutes to Midnight');
+
+insert into marketing
+values ('abc-008','$ 8 millon','$ 8','aronnd $ 17 million','around 20 million cds','Reanimation');
+
+insert into marketing
+values ('abc-009','$ 7 millon','$ 12','aronnd $ 25 million','around 20 million cds','This Is war');
+
+insert into marketing
+values ('abc-010','$ 10 millon','$ 10','aronnd $ 10 million','around 15 million cds','Appetite for Destruction');
+
+insert into marketing
+values ('abc-011','$ 13 millon','$ 7','aronnd $ 21 million','around 15 million cds','Civil War');
+
+insert into marketing
+values ('abc-012','$ 6 millon','$ 5','aronnd $ 11 million','around 17 million cds','Human Clay');
+
+insert into marketing
+values ('abc-013','$ 7 millon','$ 7','aronnd $ 15 million','around 20 million cds','Greatest Hits');
+
+insert into marketing
+values ('abc-014','$ 9 millon','$ 8','aronnd $ 20 million','around 18 million cds','Smack That');
+
+insert into marketing
+values ('abc-015','$ 10 millon','$ 9','aronnd $ 21 million','around 18 million cds','Freedom');
+
+insert into marketing
+values ('abc-016','$ 6 millon','$ 6','aronnd $ 19 million','around 20 million cds','Master of Puppets');
+
+insert into marketing
+values ('abc-017','$ 7 millon','$ 6','aronnd $ 19 million','around 20 million cds','Ride the Lightning');
+
+insert into marketing
+values ('abc-018','$ 8 millon','$ 7.9','aronnd $ 19 million','around 16 million cds','A Rush of Blood to the Head');
+
+insert into marketing
+values ('abc-018','$ 8 millon','$ 7.9','aronnd $ 19 million','around 16 million cds','A Rush of Blood to the Head');
+
+insert into marketing
+values ('abc-019','$ 7 millon','$ 7.9','aronnd $ 15 million','around 18 million cds','Parachutes');
+
+insert into marketing
+values ('abc-020','$ 5 millon','$ 6.6','aronnd $ 15 million','around 18 million cds','Killers');
+
+insert into marketing
+values ('abc-021','$ 7 millon','$ 6.6','aronnd $ 19 million','around 21 million cds','Powerslave');
+
+insert into marketing
+values ('abc-022','$ 8 millon','$ 9','aronnd $ 23 million','around 20 million cds','Dance of Death');

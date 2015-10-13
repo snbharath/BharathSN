@@ -1,0 +1,111 @@
+insert into album
+values ('Green Day','21st Century Breakdown','00:69:16','2.77','Critical response to 21st Century Breakdown was generally positive.
+It was awarded the Grammy Award for Best Rock Album at the 52nd Grammy Awards held on January 31,2010.Critics praising the album considered the 
+composition and Armstrongs lyrics a success; skeptical reviewers were critical of the albums concept.','Musically,21st Century Breakdown is similar to 
+the punk rock style of American Idiot but many critics have claimed that its traditional sound has evolved in the five years since their last release to 
+incorporate new influences such as heavier,louder pop rock and stadium rock on an epic scale.','15-may-2009');
+
+insert into album
+values ('30 Seconds to Mars','A Beautiful Lie','00:56:12','3.30','30 Seconds To Mars,hailing from Southern California released their debut album in 
+late summer of 2002,introducing audiences to their world of what many referred to as "space-rock".Using space imagery highly metaphorically throughout 
+each track, 30STM earned a name for themselves touring with many well-known acts such as Incubus (I actually picked up their album to check them out about 
+a month before I was seeing them with Incubus in Detroit.)','A Beautiful Lie is the second album by American rock band 30 Seconds to Mars.A Beautiful Lie 
+differs notably from the bands self-titled debut album, both musically and lyrically. Whereas the eponymous concept albums lyrics focus on human struggle 
+and astronomical themes,A Beautiful Lies lyrics are "personal and less cerebral."And the musictakes on a youthful, more post-hardcore approach by 
+introducing intense screaming vocals and deemphasizing synth effects.','16-Aug-2005');
+
+insert into album
+values ('Linkin Park','A Thousand Suns','00:47:56','3.35','An extremely well-crafted rock album from a band whose (self-directed) anger is, for once, 
+well placed.A Thousand Suns isnt quite the return to the magic of debut album Hybrid Theory, as it has been billed in some quarters, but neither is it 
+a straight re-enactment of the turgid attempt at a stadium-filler that was 2007s Minutes to Midnight.Musically, A Thousand Suns is more intricately put 
+together than any of the bands previous releases, even the ultimately superior Hybrid Theory.','A Thousand Suns is the fourth studio album by American 
+rock band Linkin Park.The style of the album has been compared to the music of Pink Floyd and contains the high pitched sonar "ping" from Echoes at the 
+end of "Robot Boy" and continuing into "Jornada del Muerto".A Thousand Suns is a concept album dealing with human fears such as nuclear warfare.It has 
+also been stated that the album honors the hip-hop group Public Enemy.','14-sep-2010');
+
+insert into album
+values ('Green Day','American Idiot','00:57:12','3.19','The impact of Green Days super-hit breakthrough album, Dookie, is reestablished every time another 
+cookie-cutter pop-punk band lands another song in another hour-long WB teen drama.All of that is different now that American Idiot has arrived. The latest 
+release from Green Day is their most complex, fully-realized work to date, and its probably the most ambitious rock record since Wilcos Yankee Hotel 
+Foxtrot.','American Idiot is the seventh studio album by the American punk rock band Green Day.They decided to produce a rock opera, inspired by the work 
+of The Who and numerous musicals. It follows the life of "Jesus of Suburbia", a sort of anti-hero created by Billie Joe Armstrong.In late 2005, Dean Gray 
+released a mash-up version of the album—called American Edit—and became a cause célèbre when the artist was served with a cease and desist  order by Green 
+Days record label.','21-sep-2004');
+
+insert into album
+values ('Linkin Park','Hybrid Theory','00:37:52','3.50','Due to the bands incredible“originality”,the mainstream greets them with unprecedented success 
+and acclaim. Back track to the year 2000.Grunge,rap and boy band pop dominated the airwaves of the 90s and the time had come for something new.At the 2002 
+Grammy Awards,Hybrid Theory was nominated for Best Rock Album.The band blurred the lines of rap and rock,taking guitars and mixing them with a DJ and 
+electronic drum beats.The album is the top-selling debut album by a band in the 21st century.','Hybrid Theory is the debut album by American rock band 
+Linkin Park.The music of Hybrid Theory draws from diverse inspirations. Benningtons singing style is influenced by acts.The fourth single to come from 
+Hybrid Theory was "In the End", which prominently features a signature piano riff performed by Shinoda.','24-oct-2000');
+
+insert into album
+values ('Linkin Park','Meteora','00:36:40','2.9','The second studio album by Linkin Park was released two years after the ground breaking album 
+"Hybrid Theory." The song, "Session" was nominated for a Grammy Award for Best Rock Instrumental Performance  in 2003.That Warner Music is mikling this 
+cow until the udder glows is clear. Four different versions of this album in my local record store. The successfull schemes of the "Hybrid Theory" hit 
+singles were taken to the next level. Without really changing anything.','Meteora is the second studio album by American rock band Linkin Park.It was 
+released through Warner Bros. Records, following Reanimation, a collaboration album which featured remixes of songs included on debut studio album Hybrid 
+Theory.There is a special edition of Meteora, which includes the "Making of Meteora" DVD documentary. They are packaged together in a blue tinted case 
+with the blue Meteora cover that can be found in some parts of Asia, United States, and more commonly in India.','25-mar-2003');
+
+insert into album
+values ('Linkin Park','Minutes to Midnight','00:43:31','2.2','When Linkin Park issued a similar statement for their new album,Minutes To Midnight,
+I was fearing the worst.After hearing the first single,‘What Ive Done’,I actually saw a sparkle of hope that the band would land on its feet after all.
+In the US,the album had the biggest first week sales of 2007 at the time with 625,000 albums sold,going on to be certified double platinum  in the US, 
+New Zealand,Italy,Ireland,and Australia and certified platinum in Canada,France,Switzerland and in the UK.','Minutes to Midnight is the third studio album
+ by American rock band Linkin Park.In an interview, lead singer Chester Bennington explained that the album is "a mix of punk, classic rock, and hip-hop 
+standards" and that "Rick has brought more of a stripped down, classic-rock and hip-hop kind of feel." Minutes to Midnight features a shift in the groups
+ musical direction. For the band, the album marks a beginning of deviation from their signature "nu metal" sound.','14-may-2007');
+
+insert into album
+values ('Linkin Park','Reanimation','00:61:00','2.85','The first thing that got my attention was Opening, which begins with a beautiful cello melody. 
+Later on, I was impressed to learn that Phoenix, the bassist, plays the cello and violin. A lonely piano tune accompanies him, and it is actually one 
+of the best musical moments of the album. I knew right from the get-go that Linkin Park had something to show, and had explored some new territory.
+The remix of In The End is by far the most annoying song on Reanimation.','Reanimation is the first Remix Album by American rock band Linkin Park 
+as a follow-up to their first studio album.Recorded during the Hybrid Theory tour in 2001, it features hip hop and electronica-influenced remixes of 
+songs from Hybrid Theory.Reanimation helped the many underground hip-hop  artists that it featured reach a larger audience, as well as changing the nature 
+of the work so significantly that it could be considered an entirely new album.','30-july-2002');
+
+insert into album
+values ('30 Seconds to Mars','This Is war','00:60:40','3.00','It was the 90s pop-culture equivalent of Truman ushering Marshall into the Oval Office in 1945 to discuss deployment of the atomic bomb. Well, at least it was if you were a deeply unhinged, self-absorbed teenager with a wicked crush on Jared Leto. And for the purposes of this review, you still are. No metaphor is too adolescently bombastic for This Is War,the third album by Leto s overheated karaoke crusade, Thirty Seconds to Mars, and the follow-up to 2005s multimillion-selling A Beautiful Lie.','This Is War is the third studio album by American rock band 30 Seconds to Mars, released through Virgin Records and EMI on December 8, 2009. It peaked at number 18 on the Billboard 200.30 Seconds to Mars were sued for breach-of-contract by their record label, Virgin Records, in mid-2008. The label sought $30 million in damages, claiming that the band had failed to produce three of the five records they were obligated to deliver under their 1999 contract with the now-defunct Immortal Records.','04-dec-2009');
+
+insert into album
+values ('Guns N Roses','Appetite for Destruction','00:53:48','4.11','It is great on so many levels that even its title is brilliant. In short, it is one of the best combinations of hard rock components that has ever been recorded. Chugging yet intricate guitar work, gritty use of various applicable genres, a dynamic, expressive frontman, and incisive lyrics regarding the Los Angeles underbelly stand as just a few of the unique, often groundbreaking elements found on this record. Hard rock simply may never have been better than this.','Appetite for Destruction is the debut studio album by American rock band Guns N RosesThe albums original cover art, based on the Robert Williams painting "Appetite for Destruction", depicted a robotic rapist about to be punished by a metal avenger.While the songwriting credits are credited to all five band members, many of the songs began as solo tracks that individual band members wrote separate from the band, only to be completed later.','21-jul-1987');
+
+insert into album
+values ('Guns N Roses','Civil War','00:17:44','3.77','The Reading and Leeds Festivals were held this past weekend, marking the unofficial end to the 2010 summer festival season. Headliners included the Arcade Fire, the Libertines, Paramore, and Weezer. Most of the post-festival press seems to be revolving around Guns N Roses, though, who showed up late to both of their performances and, as a result, were forced to cut their sets short. In typical Axl Rose fashion, the frontman has ignited a "war" against the festival organizers who pulled the plug.','"Civil War" is a song by the hard rock band Guns N Roses, which originally appeared on the 1990 compilation Nobody s Child: Romanian Angel Appeal and later on the 1991 album Use Your Illusion II. It is a protest song on war, referring to all war as "civil war" and that it only "feeds the rich while it buries the poor."The United States was involved in a major military operation at Iraq at time of its recording.','03-may-1993');
+
+insert into album
+values ('Creed','Human Clay','00:56:18','3.90','Human Clay was ranked #5 on Billboards Hot 200 Albums of the Decade in 2009. The album has sold over 11 million copies worldwide, making it the best selling album of Creed.This was the final album before the band s split in 2004 that featured Brian Marshall on bass guitar; he departed from the band shortly after the tour for the album in August 2000.','Human Clay is the second album by Creed released on September 28, 1999. It was certified 11x platinum and 1x(+) diamond by the RIAA, and is 54th on the top 100 selling albums of all time in the United States.The album was the band s first to hit #1 in the U.S., where it debuted with first week sales of 315,000, and stayed on top for two weeks.','28-sep-1999');
+
+insert into album
+values ('Creed','Greatest Hits','00:63:00','3.96','The album also includes a DVD that contains all of the band s music videos and several live performances. On November 19, 2008 the album was certified 2x Platinum by the RIAA, and by early 2010 the album had sold 2,151,058 copies in the U.S.It consists of every one of their U.S. singles, and only leaves out their international single, "Hide."','Greatest Hits is a greatest hits compilation album from the rock band Creed. It was released in 2004, soon after the announcement that the band had broken up, and that lead singer Scott Stapp and the other members of the band would go their separate ways (although the band has since reunited).','22-nov-2004');
+
+insert into album
+values ('Akon','Smack That','00:16:05','4.00','A remix of "Smack That" featuring Stat Quo and Bobby Creekwater is currently available on Eminem Presents The Re-Up. The remix features Akon s unused lyrics and unused beat & a preview of "Public Enemy #1" by Eminem, which is the next track after the song. An alternative version of "Smack That" is the NBA version, also sung by Akon.','"Smack That" is the first single from Akon s second album Konvicted and features Eminem.The single eventually peaked at #2 on the U.S. Billboard Hot 100 chart for a period of five weeks. As of October 20, 2006 the song reached number one on iTunes Top Downloaded songs','28-sep-2006');
+
+insert into album
+values ('Akon','Freedom','00:48:50','4.10','Freedom garnered mixed reviews by critics. Rolling Stone described Akon s third studio album as "melodrama about love and love lost delivered in a hooting style over synth-swamped beats.he album opens with its two best songs, which is never a good idea when there are twelve still to get through.','Freedom is the third studio album by hip hop and R&B Senegalese-American singer and rapper Akon.The album was originally named Acquitted, however Akon changed it before it was released.Although there are some vulgarities on Freedom, it does not carry the Parental Advisory warning, making it Akon s first album not to do so.','02-dec-2008');
+
+insert into album
+values ('Metallica','Master of Puppets','00:54:45','4.40','The first track, Battery, starts off with a slow, classical guitar intro. Another guitar joins and the intro continues. A few more guitars join until it heads right into the meat of the song.The title track, Master of Puppets, is up next. This marks my favorite non-instrumental track, and probably the best song here.','Master of Puppets is the third studio album by the American heavy metal band Metallica. It was released on March 3, 1986 through Elektra Records.Master of Puppets marks the last Metallica album with bassist Cliff Burton, who died in a bus accident while touring to promote the album. Master of Puppets met with critical acclaim at the time of its release.','03-mar-1986');
+
+insert into album
+values ('Metallica','Ride the Lightning','00:47:23','4.3','Metallica s Ride the Lighting is their second album, following up the masterful speed metal album Kill ‘Em All, and remains often rather forgotten under the greatness of Master of Puppets. Unfairly so, as Ride the Lightning has some of Metallica s best cuts, and remains on par with Master of Puppets.On this record, Metallica transformed themselves from one of the fastest bands in speed metal to one of the best composed thrash metal bands.','Ride the Lightning is the second studio album by the American heavy metal band Metallica."Ride the Lightning" is Metallica s first song which directly pointed on the misery of the criminal justice system; the lyrics are written from the perspective of someone who is forthcoming death-by-electrocution.','27-jul-1984');
+
+insert into album
+values ('Cold Play','A Rush of Blood to the Head','00:54:08','3.7','Politik-A highlight of the album that immediately shows how Coldplay have matured.In My Place-The first single off the album that features a very catchy guitar part courtesy of Jonny Buckland.The Scientist-The breakup song to relationships everywhere. This track is Chris at his best, with a phenomenally easy piano part fitting the mourning tone of his voice perfectly.','A Rush of Blood to the Head is the second studio album by English rock band Coldplay.The album is the bands first album that Chris Allison, producer of The Blue Room (1999), wasnt credited or involved in.The album was made available in August 2002, two months after its original release date. It was released on August 27 in the United States through Capitol Records.','26-aug-2002');
+
+insert into album
+values ('Cold Play','Parachutes','00:41:48','3.7','Dont Panic-Dont Panic start with a soft guitar riff, and then the song comes in. The time signature, as in almost all Coldplay songs, is a simple yet un-itimidating 4/4.Shiver Shiver is very different from Dont Panic. It is in a fast-paced 6/8 tempo and the drums provide an energetic start.','Parachutes is the debut album by English alternative rock band Coldplay, released by the record label Parlophone on 10 July 2000 in the United Kingdom.The album was generally a commercial success, and was met with positive reviews.Champion has explained that Nelson s production style was liberating and allowed the band to feel at ease during the recording of Parachutes.','26-aug-2002');
+
+insert into album
+values ('Iron Maiden','Killers','00:41:18','4.0','In 1980, British band Iron Maiden released their debut album Iron Maiden. The album was very successful for a debut album, hitting 4 on the UK charts. After a world tour supporting the likes of Kiss and Judas Priest, the band returned to the studio to record their second full length release, Killers.With Killers, Iron Maiden continued their rise in popularity. Though it wasnt as successful in the charts, Killers sold four times as much as the self titled album.','Killers is the second album by British heavy metal band Iron Maiden.This was also the first Iron Maiden album made with veteran producer Martin Birch, who went on to produce their next eight albums before retiring after Fear of the Dark in 1992.The song "Wrathchild" is the only regularly played track from the album, appearing in almost all their concert tours.','02-feb-1981');
+
+insert into album
+values ('Iron Maiden','Powerslave','00:50:57','4.49','Iron Maiden is also one of the greatest. As of now they are recording their 14th album, due to be released sometime this coming fall.Powerslave is Iron Maiden s fifth album.Released right around their highest point of popularity, it captures the power, fantasy, and emotion and combines it resulting in about 50 minutes of amazing heavy metal.','Powerslave is the fifth studio album by the English heavy metal band Iron Maiden.It is notable for its Egyptian theme displayed in the album art, as well in the title track s musical style.It contains a musical re-telling of Samuel Taylor Coleridge s "The Rime of the Ancient Mariner", which uses pieces of the original poem as lyrics. Furthermore, it is the longest song Iron Maiden have ever recorded, at a length of 13 minutes and 34 seconds.','03-sep-1984');
+
+insert into album
+values ('Iron Maiden','Dance of Death','00:67:59','3.87','Iron Maiden has been around for a long time. They were formed on Christmas Day in 1975, went through dozens of lineup changes until they settled on their most stable lineup 8 years later.Dance of Death seems to be one of those albums that will receive plenty of praise and at the same time, plenty of criticism among fans. As with both Brave New World and A Matter of Life and Death, this album contains longer tracks with plenty of soft intros, and time changes that can change on a dime.','Dance of Death is Iron Maiden s thirteenth studio album. During the song "Paschendale", Dickinson would sometimes wear a traditional British Infantryman suit as worn during World War I and act out his death onstage during the song.','02-sep-2003');
+

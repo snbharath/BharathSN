@@ -1,0 +1,24 @@
+﻿insert into ARTIST_GROUP
+values ('Iron Maiden','1975','Iron Maiden are an English heavy metal band from Leyton in east London, formed in 1975 by bassist and primary songwriter Steve Harris.','The band was basically 
+formed by Steve Harris and he included the other members on the eve of chrstmas 1975 and the band was named Iron Maiden taking inspiration from an ancient slaughtering device','Heavy Metal');
+
+insert into ARTIST_GROUP
+values ('30 Seconds to Mars','1998','30 Seconds to Mars is an American band formed in 1998, composed of Jared leto, Shannon leto and Tomo milicevic ','30 Seconds to Mars is an American rock band from Los Angeles, founded by the brothers Jared leto and Shannon leto.','Hard rock,Post grunge');
+
+insert into ARTIST_GROUP
+values('Green Day','1987','In 1987, friends Billie Joe Armstrong and Mike Dirnt, 15 years old at the time, formed a band called Sweet Children. And from then on, Billie and Mike teamed up and later during the 1988 they came up with the name Green Day','Green Day is an American punk rock band formed in 1987.Green Day was originally part of the punk scene at 924 Gilman Street in Berkeley, California. They got their break through succes from the album Dookie.','Punk Rock');
+
+insert into ARTIST_GROUP
+values('Linkin Park','1996','Linkin Park’s foundation was anchored by Mike Shinoda and Brad Delson.Later they recriuted the other members of the band and releaes their debut album - Hybrid Theory.','Linkin Park is an American rock band from Agoura Hills, California. Formed in 1996, the band rose to international fame with their debut album, Hybrid Theory','Rap Rock');
+
+insert into ARTIST_GROUP
+values ('Guns N Roses','1985','The group was formed in early 1985 by Hollywood Rose members Axl Rose (vocals) Izzy Stradlin (rhythm guitar), L.A. Guns members Tracii Guns (lead guitar), Ole Beich (bass) and Rob Gardner (drums)','Guns N' Roses (sometimes abbreviated as G N' R or GnR) is an American hard rock band. The band formed in Hollywood, Los Angeles, California in 1985.','Hard Rock');
+
+insert into ARTIST_GROUP
+values ('Cold Play','1996','Chris Martin and Jonny Buckland first met during their orientation week at College London in Sep 1996.The pair spent rest of the year recruiting members and finally led to the formation of coldplay.','Coldplay are an English alternative rock band formed in 1996 by lead vocalist Chris Martin and lead guitarist Jonny Buckland. They rose to fame from the album - Parachutes.','Alternative Rock');
+
+insert into ARTIST_GROUP
+values('Akon','2003','Akon alleged three years in jail saw him begin to recognize his music abilities and develop an appreciation for his musical background.He teamed up with Universal and came up with hit singles.','Aliaune Badara Akon Thiam, better known as simply Akon,is a Senegalese-American R&B recording artist and songwriter.He is known for his smash hit Smack That,which earned him a Grammy Award.','R & B');
+
+insert into ARTIST_GROUP
+values('Creed','1996','Founding members,vocalist Scott Stapp and guitarist Mark Tremonti had been classmates in high school and friends at Florida State University.They found their love for music and laid the foundation.','Creed is an American rock band formed in 1995 in Tallahassee, Florida. Becoming popular in the late 1990s and early 2000s, the band has released three consecutive multi-platinum albums, one of which has been certified diamond.','Post grunge');

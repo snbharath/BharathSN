@@ -1,0 +1,433 @@
+Iron maiden ---
+ killers---------------------
+insert into song
+values ('im_kl_The Ides Of March','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Murders in the Rue Morgue','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Another Life ','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_ Wrathchild','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Genghis Khan','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_ Innocent Exile','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Killers','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Twilight Zone','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Prodigal Son','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Purgatory','10-jan-1981','01-nov-1980','Killers');
+
+insert into song
+values ('im_kl_Drifter','10-jan-1981','01-nov-1980','Killers');
+----------------------------------------------------
+
+powerslave-----
+
+insert into song
+values ('im_ps_Aces High','10-jul-1984','01-sep-1983','Powerslave');
+
+insert into song
+values ('im_ps_ 2 Minutes to Midnight','10-jul-1984','01-sep-1983','Powerslave');
+
+insert into song
+values ('im_ps_Losfer Words','10-jul-1984','01-nov-1983','Powerslave');
+
+insert into song
+values ('im_ps_Flash of the Blade','10-jul-1984','01-dec-1983','Powerslave');
+
+insert into song
+values ('im_ps_ The Duellists','10-jul-1984','01-sep-1983','Powerslave');
+
+insert into song
+values ('im_ps_ Back in the Village','10-jul-1984','01-sep-1983','Powerslave');
+
+insert into song
+values ('im_ps_ Powerslave','10-jul-1984','01-nov-1983','Powerslave');
+
+insert into song
+values ('im_ps_ Rime of the Ancient Mariner','10-jul-1984','01-dec-1983','Powerslave');
+------------------------------------------------------------------------------------
+
+dance of death-------
+
+insert into song
+values ('im_dod_Wildest Dreams','10-aug-2003','01-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_Rainmaker','11-aug-2003','03-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_No More Lies','15-aug-2003','10-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_Montségur','20-aug-2003','14-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_Dance Of Death','10-aug-2003','01-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_Gates Of Tommorow','11-aug-2003','03-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_New Frontier','15-aug-2003','10-dec-2002','Dance of Death');
+
+insert into song
+values ('im_dod_Paschendale','20-aug-2003','14-dec-2002','Dance of Death');
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Green day :-
+
+21st century break down---------
+insert into song
+values ('gd_21stCB_21 guns','10-apr-2009','01-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_21st Century Breakdown','21-apr-2009','03-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_Know Your Enemy','30-apr-2009','10-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_Viva la Gloria!','05-may-2009','14-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_Last Night on Earth','10-apr-2009','01-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_Peacemaker','21-apr-2009','03-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_"East Jesus Nowhere','30-apr-2009','10-jan-2008','21st Century Breakdown');
+
+insert into song
+values ('gd_21stCB_Last of the American Girls','05-may-2009','14-jan-2008','21st Century Breakdown');
+--------------------------------------------------------------------
+american idiot:-
+
+insert into song
+values ('gd_ai_"American Idiot','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Jesus of Suburbia','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Holiday','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Boulevard of Broken Dreams','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Wake Me Up When September Ends','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Give Me Novacaine','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Extraordinary Girl','26-mar-2004','18-apr-2003','American Idiot');
+
+insert into song
+values ('gd_ai_Nobody Likes You','26-mar-2004','18-apr-2003','American Idiot');
+-------------------------------------------------------------
+
+Linkin Park:-
+
+A Thousand suns:-------
+
+insert into song
+values ('lp_ts_Burning in the Skies','14-sep-2010','10-aug-2010','A Thousand Suns');
+
+insert into song
+values ('lp_ts_Waiting for the End','15-sep-2010','14-aug-2010','A Thousand Suns');
+
+insert into song
+values ('lp_ts_Iridescent','17-sep-2010','15-aug-2010','A Thousand Suns');
+
+insert into song
+values ('lp_ts_The Catalyst','18-sep-2010','16-aug-2010','A Thousand Suns');
+
+insert into song
+values ('lp_ts_Wretches and Kings','20-sep-2010','17-aug-2010','A Thousand Suns');
+------------------------------------------------------------------------
+
+hybrid theory:---------------
+
+insert into song
+values ('lp_ht_In the End','24-oct-2000','10-aug-2000','Hybrid Theory');
+
+insert into song
+values ('lp_ht_Papercut','25-oct-2000','14-aug-2000','Hybrid Theory');
+
+insert into song
+values ('lp_ht_One Step Closer','25-oct-2000','15-aug-2000','Hybrid Theory');
+
+insert into song
+values ('lp_ht_Crawling','27-oct-2000','16-aug-2000','Hybrid Theory');
+
+insert into song
+values ('lp_ht_Runaway','28-oct-2000','17-aug-2000','Hybrid Theory');
+---------------------------------------------------------------------------
+
+meteora:------------
+
+insert into song
+values ('lp_met_Numb','29-jun-2004','25-mar-2003','Meteora');
+
+insert into song
+values ('lp_met_Somewhere I Belong','29-jun-2004','23-mar-2003','Meteora');
+
+insert into song
+values ('lp_met_Faint','29-jun-2004','22-mar-2003','Meteora');
+
+insert into song
+values ('lp_met_Breaking the Habit','29-jun-2004','25-mar-2003','Meteora');
+
+insert into song
+values ('lp_met_From the Inside','29-jun-2004','26-mar-2003','Meteora');
+--------------------------------------------------------------------------
+
+minutes to midnight:--------
+
+insert into song
+values ('lp_mtm_Leave Out All the Rest','29-jan-2007','23-feb-2006','Minutes to Midnight');
+
+insert into song
+values ('lp_mtm_Bleed It Out','23-jan-2007','23-feb-2006','Minutes to Midnight');
+
+insert into song
+values ('lp_mtm_What Ive Done','25-jan-2007','23-feb-2006','Minutes to Midnight');
+
+insert into song
+values ('lp_mtm_In Pieces','21-jan-2007','23-feb-2006','Minutes to Midnight');
+
+insert into song
+values ('lp_mtm_Given Up','29-jan-2007','23-feb-2006','Minutes to Midnight');
+------------------------------------------------------------------------
+reanaimation:----------
+
+insert into song
+values ('lp_re.an_Pts.OF.Athrty','29-jan-2007','23-feb-2006','Reanimation');
+
+insert into song
+values ('lp_re.an_Wth>You','23-jan-2007','23-feb-2006','Reanimation');
+
+insert into song
+values ('lp_re.an_Ppr:Kut','25-jan-2007','23-feb-2006','Reanimation');
+
+insert into song
+values ('lp_re.an_1stp Klosr','21-jan-2007','23-feb-2006','Reanimation');
+
+insert into song
+values ('lp_re.an_By_Myslf','29-jan-2007','23-feb-2006','Reanimation');
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+30 seconds to mars:---
+-------------------
+A beautiful lie:-----------
+
+insert into song
+values ('30stm_abl_A Beautiful Lie','29-aug-2005','23-feb-2003','A Beautiful Lie');
+
+insert into song
+values ('30stm_abl_The Kill','23-aug-2005','02-feb-2003','A Beautiful Lie');
+
+insert into song
+values ('30stm_abl_From Yesterday','25-aug-2005','13-feb-2003','A Beautiful Lie');
+
+insert into song
+values ('30stm_abl_The Fantasy','21-jan-2005','20-feb-2003','A Beautiful Lie');
+
+insert into song
+values ('30stm_abl_Savior','29-jan-2005','19-feb-2003','A Beautiful Lie');
+---------------------------------------------------------------------
+
+This is war:------------
+
+insert into song
+values ('30stm_tiw_A Beautiful Lie','19-aug-2009','23-feb-2008','This Is war');
+
+insert into song
+values ('30stm_tiw_Escape','19-aug-2009','02-feb-2008','This Is war');
+
+insert into song
+values ('30stm_tiw_Kings and Queens','25-aug-2009','20-mar-2008','This Is war');
+
+insert into song
+values ('30stm_tiw_This Is War','21-jan-2009','20-mar-2008','This Is war');
+
+insert into song
+values ('30stm_tiw_100 Suns','29-jan-2009','19-feb-2003','This Is war');
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Guns N Roses:------------
+--------------------------
+Appetite for Destruction-------------
+
+insert into song
+values ('gng_afd_Welcome to the Jungle','19-aug-1987','23-feb-1987','Appetite for Destruction');
+
+insert into song
+values ('gng_afd_Paradise City','19-aug-1987','23-feb-1987','Appetite for Destruction');
+
+insert into song
+values ('gng_afd_Youre Crazy','19-aug-1987','23-feb-1987','Appetite for Destruction');
+
+insert into song
+values ('gng_afd_Think About You','19-aug-1987','23-feb-1987','Appetite for Destruction');
+---------------------------------------------------------------------------------------------------------
+Civil War:-------------
+
+insert into song
+values ('gng_cw_Civil War','10-mar-1990','09-feb-1989','Civil War');
+
+insert into song
+values ('gng_cw_Garden of Eden','10-mar-1990','09-feb-1989','Civil War');
+
+insert into song
+values ('gng_cw_Dead Horse','10-mar-1990','09-feb-1989','Civil War');
+
+insert into song
+values ('gng_cw_Interview with Slash','10-mar-1990','09-feb-1989','Civil War');
+----------------------------------------------------------------------------------------------------------
+
+Creed:-----------------
+Greatest Hits:----------------------
+insert into song
+values ('cr_gh_Higher','01-dec-2003','09-feb-2003','Greatest Hits');
+
+insert into song
+values ('cr_gh_My Own Prison','10-dec-2003','19-feb-2003','Greatest Hits');
+
+insert into song
+values ('cr_gh_Are You Ready?','10-dec-2003','28-feb-2003','Greatest Hits');
+
+insert into song
+values ('cr_gh_My Sacrifice','19-dec-2003','14-feb-2003','Greatest Hits');
+----------------------------------------------------------
+Human Clay:---------
+
+insert into song
+values ('cr_hc_Higher','01-aug-1999','09-feb-2000','Human Clay');
+
+insert into song
+values ('cr_hc_Beautiful','10-aug-1999','19-feb-2000','Human Clay');
+
+insert into song
+values ('cr_hc_Wash Away Those Years','10-aug-1999','28-feb-2000','Human Clay');
+
+insert into song
+values ('cr_hc_Inside Us All','19-aug-1999','14-feb-2000','Human Clay');
+------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+Akon:------
+Smack That:-----------
+
+insert into song
+values ('akon_st_Smack That','28-sep-2006','13-nov-2006','Smack That');
+
+insert into song
+values ('akon_st_Miss Melody','28-sep-2006','13-nov-2006','Smack That');
+
+insert into song
+values ('akon_st_Senegal','28-sep-2006','26-nov-2006','Smack That');
+
+insert into song
+values ('akon_st_Smack That (Video)','28-sep-2006','26-nov-2006','Smack That');
+--------------------------------------------------------------------------------------
+
+Freedom:-----------
+
+insert into song
+values ('akon_fre_Keep You Much Longer','18-apr-2008','13-nov-2007','Freedom');
+
+insert into song
+values ('akon_fre_Troublemaker','18-apr-2008','13-nov-2007','Freedom');
+
+insert into song
+values ('akon_fre_Freedom','28-apr-2008','26-nov-2007','Freedom');
+
+insert into song
+values ('akon_fre_Be With You','28-apr-2008','26-nov-2007','Freedom');
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+Metallica:--------------
+
+Master of Puppets:--------
+
+insert into song
+values ('meta_mp_Battery','27-dec-1985','01-sep-1985','Master of Puppets');
+
+insert into song
+values ('meta_mp_The Thing That Should Not Be','27-dec-1985','01-sep-1985','Master of Puppets');
+
+insert into song
+values ('meta_mp_Disposable Heroes','28-apr-2008','01-sep-1985','Master of Puppets');
+
+insert into song
+values ('meta_mp_Orion','27-dec-1985','01-sep-1985','Master of Puppets');
+---------------------------------------------------------------------------------------------
+Ride the Lightning:-----------
+
+insert into song
+values ('meta_rl_Fight Fire with Fire','19-nov-1984','27-jul-1984','Ride the Lightning');
+
+insert into song
+values ('meta_rl_Ride the Lightning','19-nov-1984','27-jul-1984','Ride the Lightning');
+
+insert into song
+values ('meta_rl_Escape','28-apr-2008','19-nov-1984','Ride the Lightning');
+
+insert into song
+values ('meta_rl_Trapped Under Ice','19-nov-1984','27-jul-1984','Ride the Lightning');
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Cold Play:-------------
+
+Parachutes:-------
+
+insert into song
+values ('cp_para_Shiver','30-may-2000','27-nov-1999','Parachutes');
+
+insert into song
+values ('cp_para_Spies','30-may-2000','27-nov-1999','Parachutes');
+
+insert into song
+values ('cp_para_Parachutes','30-may-2000','27-nov-1999','Parachutes');
+
+insert into song
+values ('cp_para_High Speed','30-may-2000','27-nov-1999','Parachutes');
+--------------------------------------------------------------------------------------
+
+A Rush of Blood to the Head:-------------
+
+insert into song
+values ('cp_rbh_In My Place','13-may-2002','22-sep-2001','A Rush of Blood to the Head');
+
+insert into song
+values ('cp_rbh_The Scientist','13-may-2002','22-sep-2001','A Rush of Blood to the Head');
+
+insert into song
+values ('cp_rbh_Warning Sign','13-may-2002','22-sep-2001','A Rush of Blood to the Head');
+
+insert into song
+values ('cp_rbh_A Rush of Blood to the Head','13-may-2002','22-sep-2001','A Rush of Blood to the Head');
+-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------

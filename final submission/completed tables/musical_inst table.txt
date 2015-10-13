@@ -1,0 +1,21 @@
+insert into musical_inst
+values ('Electric Guitar','string instrument','Electric guitar was first used by Gage Brewer in 1930s. An electric guitar is a guitar that uses the principle of electro magnetic pickup to convert vibrations of its strings into electric signals.They rely on electronic amplification to make their sound audible.','6700rs');
+
+insert into musical_inst
+values ('Acoustic Guitar','string instrument','Even though the Guitars came into existence in 1900s, in all types of stringed instruments the sound is produced by the vibration of the strings.These guitars use only acoustic methods to project the sound produced by its strings and hence the name Acoustic guitar.','5400rs');
+
+insert into musical_inst
+values ('Drum','Percussion','Drums were one of the oldest musical instruments.Drums are technically classified as the membranous. Drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with the players hands, or with a drumstick, to produce sound.','23000rs');
+
+insert into musical_inst
+values ('Piano','String','The piano is a musical instrument played by means of a keyboard. It is one of the most popular instruments in the world. Widely used in classical music for solo performances, ensemble use, chamber music and accompaniment.','26500rs');
+
+insert into musical_inst
+values ('Keyboard','Piano','A musical keyboard is the set of adjacent depressible levers or keys on a musical instrument, particularly the piano. Keyboards typically contain keys for playing the twelve notes of the Western musical scale.','12000rs');
+
+insert into musical_inst
+values ('Flute','Wind instrument','Flute is one of the oldest musical instrument.It categorises to the woodwind family of musical instrument. Where sound is created from the blowing of air through the wood pipes.','1000rs');
+
+insert into musical_inst
+values ('Violin','String instrument','Violin was basically developed in the early 16th century. The violin is a string instrument, usually with four strings tuned in perfect fifths. It is the smallest, highest-pitched member of the violin family of string instruments.','6700rs');
+

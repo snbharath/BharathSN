@@ -1,0 +1,438 @@
+Iron maiden ---
+ killers---------------------
+--------------------------------------
+insert into track
+values ('im_track01','3mb','00:01:46','128kbps','Killers');
+
+insert into track
+values ('im_track02','5mb','00:04:18','128kbps','Killers');
+
+insert into track
+values ('im_track03','4mb','00:03:22','128kbps','Killers');
+
+insert into track
+values ('im_track04','3mb','00:02:54','128kbps','Killers');
+
+insert into track
+values ('im_track05','4mb','00:03:06','128kbps','Killers');
+
+insert into track
+values ('im_track06','4mb','00:03:53','128kbps','Killers');
+
+insert into track
+values ('im_track07','3mb','00:01:46','128kbps','Killers');
+
+insert into track
+values ('im_track08','3mb','00:02:33','128kbps','Killers');
+
+insert into track
+values ('im_track09','6mb','00:06:11','128kbps','Killers');
+
+insert into track
+values ('im_track10','3mb','00:03:20','128kbps','Killers');
+
+insert into track
+values ('im_track11','4mb','00:04:48','128kbps','Killers');
+------------------------------------------------------------------------------------------------------------------------------------
+
+powerslave:-------
+
+insert into track
+values ('im_track12','5mb','00:04:29','128kbps','Powerslave');
+
+insert into track
+values ('im_track13','6mb','00:06:00','128kbps','Powerslave');
+
+insert into track
+values ('im_track14','4mb','00:04:13','128kbps','Powerslave');
+
+insert into track
+values ('im_track15','3mb','00:04:03','128kbps','Powerslave');
+
+insert into track
+values ('im_track16','6mb','00:06:06','128kbps','Powerslave');
+
+insert into track
+values ('im_track17','4mb','00:05:03','128kbps','Powerslave');
+
+insert into track
+values ('im_track18','7mb','00:07:12','128kbps','Powerslave');
+
+insert into track
+values ('im_track19','13mb','00:13:34','128kbps','Powerslave');
+---------------------------------------------------------------------------------------------------------------------------------------
+dance of death:------------------
+
+insert into track 
+values ('im_track20','3mb','00:03:52','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track21','3mb','00:03:48','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track22','3mb','00:07:22','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track23','5mb','00:05:50','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track24','10mb','00:08:36','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track25','5mb','00:05:12','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track26','5mb','00:05:04','128kbps','Dance of Death');
+
+insert into track 
+values ('im_track27','9mb','00:08:28','128kbps','Dance of Death');
+------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
+green day:----------
+
+21st century break down---------
+
+insert into track
+values ('gd-track01','12mb','00:05:21','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track02','12mb','00:05:09','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track03','10mb','00:03:11','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track04','10mb','00:03:31','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track05','10mb','00:03:57','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track06','9mb','00:03:24','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track07','10mb','00:04:35','320kbps','21st Century Breakdown');
+
+insert into track
+values ('gd-track08','10mb','00:03:51','320kbps','21st Century Breakdown');
+----------------------------------------------------------------------------
+
+american Idiot:----------
+
+insert into track
+values ('gd-track09','3mb','00:02:54','192kbps','American Idiot');
+
+insert into track
+values ('gd-track10','12mb','00:09:08','192kbps','American Idiot');
+
+insert into track
+values ('gd-track11','7mb','00:03:52','192kbps','American Idiot');
+
+insert into track
+values ('gd-track12','7mb','00:04:20','192kbps','American Idiot');
+
+insert into track
+values ('gd-track13','7mb','00:04:45','192kbps','American Idiot');
+
+insert into track
+values ('gd-track14','5mb','00:03:25','192kbps','American Idiot');
+
+insert into track
+values ('gd-track15','5mb','00:03:33','192kbps','American Idiot');
+
+insert into track
+values ('gd-track16','14mb','00:09:18','192kbps','American Idiot');
+--------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Linkin Park:-
+
+A Thousand suns:-------
+-------------------------
+
+
+insert into track
+values ('lp_track01','10mb','00:04:13','320kbps','A Thousand Suns','Linkin Park');
+
+insert into track
+values ('lp_track02','9mb','00:03:51','320kbps','A Thousand Suns','Linkin Park');
+
+insert into track
+values ('lp_track03','10mb','00:04:56','320kbps','A Thousand Suns','Linkin Park');
+
+insert into track
+values ('lp_track04','12mb','00:05:42','320kbps','A Thousand Suns','Linkin Park');
+
+insert into track
+values ('lp_track05','11mb','00:04:10','320kbps','A Thousand Suns','Linkin Park');
+-------------------------------------------------------------------------------------
+hybrid theory:---------------
+
+insert into song
+values ('lp_track06','6mb','00:03:30','224kbps','Hybrid Theory');
+
+insert into song
+values ('lp_track07','6mb','00:03:05','224kbps','Hybrid Theory');
+
+insert into song
+values ('lp_track08','5mb','00:02:36','224kbps','Hybrid Theory');
+
+insert into song
+values ('lp_track09','6mb','00:03:29','224kbps','Hybrid Theory');
+
+insert into song
+values ('lp_track10','6mb','00:03:04','224kbps','Hybrid Theory');
+----------------------------------------------------------------------------------------
+
+meteora:------------
+
+insert into track
+values ('lp_track11','10mb','00:03:05','320kbps','Meteora');
+
+insert into track
+values ('lp_track12','7mb','00:03:33','224kbps','Meteora');
+
+insert into track
+values ('lp_track13','5mb','00:02:42','224kbps','Meteora');
+
+insert into track
+values ('lp_track14','6mb','00:03:16','320kbps','Meteora');
+
+insert into track
+values ('lp_track15','5mb','00:02:53','224kbps','Meteora');
+--------------------------------------------------------------------------
+
+minutes to midnight:--------
+
+insert into track
+values ('lp_track16','7mb','00:03:29','224kbps','Minutes to Midnight');
+
+insert into track
+values ('lp_track17','4mb','00:02:44','224kbps','Minutes to Midnight');
+
+insert into track
+values ('lp_track18','6mb','00:03:25','224kbps','Minutes to Midnight');
+
+insert into track
+values ('lp_track19','6mb','00:03:38','224kbps','Minutes to Midnight');
+
+insert into track
+values ('lp_track20','6mb','00:03:09','224kbps','Minutes to Midnight');
+------------------------------------------------------------------------
+reanaimation:----------
+
+insert into track
+values ('lp_track21','10mb','00:03:45','320kbps','Reanimation');
+
+insert into track
+values ('lp_track22','12mb','00:04:12','320kbps','Reanimation');
+
+insert into track
+values ('lp_track23','11mb','00:03:26','320kbps','Reanimation');
+
+insert into track
+values ('lp_track24','15mb','00:05:46','320kbps','Reanimation');
+
+insert into track
+values ('lp_track25','11mb','00:03:42','320kbps','Reanimation');
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+30 seconds to mars:---
+-------------------
+A beautiful lie:-----------
+
+insert into track
+values ('30stm_track01','9mb','00:04:05','192kbps','A Beautiful Lie');
+
+insert into track
+values ('30stm_track02','11mb','00:05:51','192kbps','A Beautiful Lie');
+
+insert into track
+values ('30stm_track03','8mb','00:04:08','192kbps','A Beautiful Lie');
+
+insert into track
+values ('30stm_track04','8mb','00:04:29','192kbps','A Beautiful Lie');
+
+insert into track
+values ('30stm_track05','9mb','00:03:11','192kbps','A Beautiful Lie');
+---------------------------------------------------------------------
+
+This is war:------------
+
+insert into track
+values ('30stm_track06','8mb','00:04:05','224kbps','This Is war');
+
+insert into track
+values ('30stm_track07','7mb','00:02:24','224kbps','This Is war');
+
+insert into track
+values ('30stm_track08','6mb','00:05:48','224kbps','This Is war');
+
+insert into track
+values ('30stm_track09','9mb','00:05:27','224kbps','This Is war');
+
+insert into track
+values ('30stm_track10','4mb','00:01:58','224kbps','This Is war');
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+
+Guns N Roses:------------
+--------------------------
+Appetite for Destruction-------------
+
+insert into track
+values ('gng_track01','4mb','00:04:34','128kbps','Appetite for Destruction');
+
+insert into track
+values ('gng_track02','6mb','00:06:46','128kbps','Appetite for Destruction');
+
+insert into track
+values ('gng_track03','3mb','00:03:17','128kbps','Appetite for Destruction');
+
+insert into track
+values ('gng_track04','4mb','00:03:52','128kbps','Appetite for Destruction');
+---------------------------------------------------------------------------------------------------------
+Civil War:-------------
+
+insert into track
+values ('gng_track05','4mb','00:02:52','198kbps','Civil War');
+
+insert into track
+values ('gng_track06','5mb','00:03:03','198kbps','Civil War');
+
+insert into track
+values ('gng_track07','6mb','00:04:52','198kbps','Civil War');
+
+insert into track
+values ('gng_track08','6mb','00:05:01','198kbps','Civil War');
+----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+
+Creed:-----------------
+Greatest Hits:----------------------
+insert into track
+values ('cr_track01','12mb','00:05:26','224kbps','Greatest Hits');
+
+insert into track
+values ('cr_track02','12mb','00:05:00','224kbps','Greatest Hits');
+
+insert into track
+values ('cr_track03','10mb','00:04:46','224kbps','Greatest Hits');
+
+insert into track
+values ('cr_track04','10mb','00:04:55','224kbps','Greatest Hits');
+----------------------------------------------------------
+Human Clay:---------
+
+insert into track
+values ('cr_track05','12mb','00:05:17','320kbps','Human Clay');
+
+insert into track
+values ('cr_track06','10mb','00:04:20','320kbps','Human Clay');
+
+insert into track
+values ('cr_track07','13mb','00:06:04','320kbps','Human Clay');
+
+insert into track
+values ('cr_track08','11mb','00:05:49','320kbps','Human Clay');
+------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+
+Akon:------
+Smack That:-----------
+
+insert into track
+values ('akon_track01','8mb','00:03:32','256kbps','Smack That');
+
+insert into track
+values ('akon_track02','10mb','00:05:44','256kbps','Smack That');
+
+insert into track
+values ('akon_track03','6mb','00:02:51','256kbps','Smack That');
+
+insert into track
+values ('akon_track04','8mb','00:03:32','256kbps','Smack That');
+--------------------------------------------------------------------------------------
+
+Freedom:-----------
+
+insert into track
+values ('akon_track05','5mb','00:04:21','224kbps','Freedom');
+
+insert into track
+values ('akon_track06','3mb','00:03:57','224kbps','Freedom');
+
+insert into track
+values ('akon_track07','4mb','00:04:14','224kbps','Freedom');
+
+insert into track
+values ('akon_track08','4mb','00:03:51','224kbps','Freedom');
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+Metallica:--------------
+
+Master of Puppets:--------
+
+insert into track
+values ('meta_track01','6mb','00:05:11','192kbps','Master of Puppets');
+
+insert into track
+values ('meta_track02','6mb','00:06:35','192kbps','Master of Puppets');
+
+insert into track
+values ('meta_track03','7mb','00:08:16','192kbps','Master of Puppets');
+
+insert into track
+values ('meta_track04','7mb','00:08:25','192kbps','Master of Puppets');
+---------------------------------------------------------------------------------------------
+Ride the Lightning:-----------
+
+insert into track
+values ('meta_track05','6mb','00:04:45','256kbps','Ride the Lightning');
+
+insert into track
+values ('meta_track06','7mb','00:06:36','256kbps','Ride the Lightning');
+
+insert into track
+values ('meta_track07','5mb','00:04:24','256kbps','Ride the Lightning');
+
+insert into track
+values ('meta_track08','6mb','00:04:04','256kbps','Ride the Lightning');
+----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Cold Play:-------------
+
+Parachutes:-------
+
+insert into track
+values ('cp_track01','10mb','00:04:59','320kbps','Parachutes');
+
+insert into track
+values ('cp_track02','13mb','00:05:18','320kbps','Parachutes');
+
+insert into track
+values ('cp_track03','2mb','00:00:46','320kbps','Parachutes');
+
+insert into track
+values ('cp_track04','9mb','00:04:14','320kbps','Parachutes');
+--------------------------------------------------------------------------------------
+
+A Rush of Blood to the Head:-------------
+
+insert into track
+values ('cp_track05','8mb','00:03:48','192kbps','A Rush of Blood to the Head');
+
+insert into track
+values ('cp_track06','9mb','00:05:09','192kbps','A Rush of Blood to the Head');
+
+insert into track
+values ('cp_track07','10mb','00:05:31','192kbps','A Rush of Blood to the Head');
+
+insert into track
+values ('cp_track08','9mb','00:05:51','192kbps','A Rush of Blood to the Head');
+-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------

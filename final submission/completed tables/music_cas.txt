@@ -1,0 +1,20 @@
+insert into music_cas
+values ('Drum',03);
+
+insert into music_inst
+values ('Electric Guitar',01);
+
+insert into music_cas
+values ('Acoustic Guitar',02);
+
+insert into music_cas
+values ('Piano',04);
+
+insert into music_cas
+values ('Keyboard',05);
+
+insert into music_cas
+values ('Flute',06);
+
+insert into music_cas
+values ('Violin',07);

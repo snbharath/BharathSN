@@ -1,0 +1,44 @@
+insert into LABEL
+values ('Iron Maiden','EMI','Iron Maiden are an English heavy metal band.Pioneers of genre-New wave of British Heavy Metal.Its sound and music has inspired 
+countless other bands in the heavy metal and rock genre.Metallica drummer "Lars Ulrich" said "Iron Maiden have been the blueprint for everything that we 
+have ever wanted to do.I have always had an incredible amount of respect and admiration for them."','Heavy Metal');
+
+insert into LABEL
+values ('Metallica','Elektra','Metallica(also known as The Black Album)is the eponymous fifth studio album by the American heavy metal band Metallica.
+The album cover features the band''s logo, angled against the upper left corner,and a coiled snake (derived from the Gadsden flag) on the bottom right corner,
+both in a dark shade of gray in order to be made out against the black background.','Hard Rock');
+
+insert into LABEL
+values ('Green Day','Reprise','Green Day is an American punk rock band formed in 1987.It was originally a part of the punk scene at 924 Gilman Street in Berkeley,
+California.It was widely credited,alongside fellow California punk bands "The Offspring","Rancid",and "NOFX",with popularizing and reviving mainstream
+interest in punk rock in the US.Their 2004 "rock opera American Idiot" reignited the band''s popularity.','Punk Rock');
+
+insert into LABEL
+values ('30 Seconds to Mars','Virgin','30 Seconds to Mars is an American rock band from Los Angeles,formed in 1998.The band''s "phoenix logo"
+(which the band named "Mithra") bears the phrase "Provehito in Altum", the band''s motto.Roughly translated from Latin, this means 
+"Launch forth into the deep"; but a more stylized version would be "Rocket in(to) High(ness)."','Alternative Rock');
+
+insert into LABEL
+values ('Linkin Park','WB','Linkin Park is an American rock band from "Agoura Hills, California".In 2003,MTV2 named Linkin Park the sixth greatest band 
+of the music video era and the third best of the new millennium behind Oasis and Coldplay.Originally consisting of three high school friends,Linkin Park’s 
+foundation was anchored by "Mike Shinoda","Brad Delson",and "Rob Bourdon"','Rap Rock');
+
+insert into label
+values ('Creed','Wind Up','Creed is an American rock band formed in 1995 in Tallahassee,Florida.The band has released three consecutive multi-platinum albums.
+It is often recognized as one of the prominent acts of the post-grunge movement of the late 1990s and early 2000s and is one of the most commercially 
+successful rock bands of all time.Billboard ranked Creed as the 18th best artist of the 2000s.','Post grunge');
+
+insert into label
+values ('Cold Play','EMI','Coldplay are a British alternative rock band formed in 1996 by lead vocalist Chris Martin and lead guitarist Jonny Buckland at 
+University College London.The band''s second album,A Rush of Blood to the Head (2002),was released to favourable reviews and won multiple awards,and 
+has been widely considered the best of the Nelson-produced Coldplay albums.','Alternative Rock');
+
+insert into label
+values ('Akon','SRC','Aliaune Badara Akon Thiam,born April 16,1973,better known as simply Akon, is a Senegalese-American R&B recording artist and songwriter.
+Akon often sings hooks for other artists and is currently credited with over 300 guest appearances and 45 Billboard Hot 100 songs.He has worked with 
+numerous performers such as Michael Jackson, R. Kelly, Quincy Jones, Eminem and Whitney Houston.','R & B');
+
+insert into LABEL
+values ('Guns N Roses','Geffen','Guns N Roses (sometimes abbreviated as G N R or GnR) is an American hard rock band.The band formed in Hollywood,Los Angeles, 
+California in 1985. Led by frontman and co-founder Axl Rose, the band has released six studio albums, three EPs, and one live album while going through 
+numerous line-up changes and controversies since its formation.Rose is the only consistent original member of Guns N Roses.','Hard Rock');

@@ -1,0 +1,3 @@
+toyota,KA09FH2453,LuxuryCar
+Lamborghini,KA09EP9337,LuxuryCar
+toyota,KA09EG7348,SmallCar

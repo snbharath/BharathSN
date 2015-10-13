@@ -1,0 +1,37 @@
+insert into genre
+values ('Heavy Metal','the bands that created heavy metal developed a thick,massive sound, characterized by highly amplified distortion, extended guitar solos, emphatic beats, and overall loudness.','The heavy metal type of music is traditionally characterized by loud distorted guitars, emphatic rhythms, 
+dense bass-and-drum sound, and vigorous vocals. Extensive use of electric guitars and the heavy drums creates an 
+onslaught of sound.');
+
+insert into genre
+values ('Hard Rock','It is typified by a heavy use of distorted electric guitars, bass guitar, drums, and often accompanied with pianos, and keyboards.','Hard rock is a form of loud, aggressive rock music. The electric guitar is often emphasised, used with distortion and other effects,Vocals are often growling, raspy, or involve screaming or wailing, sometimes in a high range, or even falsetto voice.');
+
+insert into genre
+values ('Alternative Rock','Alternative rock consists of various subgenres that have emerged from the independent music scene since the 1980s, such as grunge, gothic rock and indie rock. These genres are unified by this style of music.','Alternative music was generally originated in the late 1980s and it basically included many genres and it brought new dimension to the music industry. Anything which is different is categorized under the alternate type of music.');
+
+insert into genre
+values ('Rap Rock','Rap rock,a genre fusing vocal and instrumental elements of hip hopwith rock. The genres roots are based both in hip hop acts who sampled heavy metal songs.','Rap rock basically fused rythm and poetry with the rock music and it has given rise to a new style of music. It offers something different from both rock and RAP music.');
+
+insert into genre
+values ('Pop Rock','Pop punk is a fusion music genre that combines elements of punk rock with pop music, to varying degrees.','Pop punk, a type of music,which typically merges pop melodies with speedy punk tempos, chord changes and loud guitarsis often considered to have radio friendly sheen to their music.');
+
+insert into genre
+values ('R & B','Rhythm and blues, often abbreviated to R&B, is a genre of popular African American music that originated in the 1940s.','The term was originallyused by record companies to describe recordings marketed predominantly to urban African Americans, at a time when "urbane, rocking, jazz based music with a heavy, insistent beat" was becoming more popular.');
+
+insert into genre
+values ('Punk Rock','Punk rock is a rock music genre that developed between 1974 and 1976 in the United States, the United Kingdom, and Australia. 
+Rooted in garage rock and other forms of what is now known as punk music.','They created fast, hard-edged music, typically with short songs, stripped-down instrumentation, and often political, anti-establishment lyrics. Punk embraces a DIY ethic.');
+
+insert into genre
+values ('Post grunge','Post-grunge is a subgenre of alternative rock that emerged in the mid-1990s as a derivative of grunge, using the sounds 
+and aesthetic of grunge, but with a more commercially acceptable tone','The term post-grunge was coined to describe these bands, who emulated the attitudes and music of grunge, particularly thick, distorted guitars, but with a more radio-friendly commercially-oriented sound.');
+
+insert into genre
+values ('Carnatic,Hindustani','Carnatic music is a system of music commonly associated with southern part of the Indian subcontinent,with its area roughly 
+confined to four modern states of India:Andhra Pradesh,Karnataka,Kerala,and TamilNadu.Hindustani music is mainly influenced from the persian style of music in the earlr years.',' Carnatic music mainly emphasises on voclas,the basic elements of sruti,swara, raga, and tala form the foundation of improvisation and composition in both Carnatic music and Hindustani music.');
+
+insert into genre
+values ('Indi pop','Indian pop music, often known as Indian-Pop, Hindi Pop, Indipop or Indi-pop, refers to pop music in India. It is based on an amalgamation of Indian folk and classical music with modern beats from different parts of the world.','Much of Indian Pop music comes from the Indian Film Industry.Recently, Indian pop has taken an interesting turn with the "remixing" of songs from past Indian movie songs,new beats being added to them.');
+
+insert into genre
+values ('Sufi Rock','Sufi rock is a genre of rock music that emerged in the early 1990s and became widely popular in the late 1990s in South Asia.','The term sufi rock was coined by Nadeem . F. Paracha who pioneered the process of fusing conventional rock music with sufi music and imagery.');
