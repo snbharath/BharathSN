@@ -640,9 +640,9 @@ void error()
 	}
 	setcolor(CYAN);
 	settextstyle(1,0,3);
-	outtextxy(150,150,"Sorry for inconvenience..?");
+	outtextxy(150,150,"Sorry !!");
 	outtextxy(100,200,"There is no saved game or data to load.");
-	outtextxy(100,250,"please start new game.");
+	outtextxy(100,250,"please start a new game ");
 	outtextxy(200,400,"Press any key to go back << .");
 	getch();
 }
@@ -1280,22 +1280,20 @@ void instructions()
 	}
 	setcolor(LIGHTGREEN);
 	settextstyle(7,0,2);
-	outtextxy(80,150,"In this game there are 6 levels . You are provided");
-	outtextxy(40,180,"with four chances , although chances are highlighted");
-	outtextxy(40,210,"with 3 smiling faces , present at the right top most");
+	outtextxy(80,150,"The game has 6 levels . You'll have");
+	outtextxy(40,180,"four health , lives are highlighted");
+	outtextxy(40,210,"with 3 smiling faces , at the right top most");
 	outtextxy(40,240,"corner . Do not hit the obstacles (blocks) , if");
-	outtextxy(40,270,"you do so chances will be reduced.Obstacles will");
-	outtextxy(40,300,"be of BLUE in color and door , the place where u sholud");
-	outtextxy(40,330,"reach ,is LIGHTGREEN in color . It clearly resembles");
-	outtextxy(40,360,"the DOOR. . . . . From 3rd level onwards there will");
-	outtextxy(40,390,"be randomly present & vanishing >>>>>>>");
+	outtextxy(40,270,"you do so lives will go down .Obstacles will");
+	outtextxy(40,300,"be of BLUE in color and door the place where u sholud");
+	outtextxy(40,330,"reach ,is LIGHTGREEN in color.");
 	setcolor(CYAN);
 	outtextxy(450,420,"see nextpage......!");
 	getch();
 	setfillstyle(SOLID_FILL,BLACK);
 	bar(35,150,640,450);
 	setcolor(LIGHTGREEN);
-	outtextxy(40,150,"blocks .If it blinks");
+	outtextxy(40,150,"If it blinks");
 	outtextxy(40,180,"in your position your chances will be reduced ");
 	setcolor(YELLOW);
 	outtextxy(40,240,"BLINKING BOX CATALOG:--");
@@ -1415,7 +1413,7 @@ int quit()
 	cleardevice();
 	setcolor(LIGHTBLUE);
 	settextstyle(3,0,4);
-	outtextxy(60,100,"DO YOU WANT TO REALLY EXIT....!");
+	outtextxy(60,100,"DO YOU REALLY WANT TO EXIT....?");
 	setcolor(LIGHTRED);
 	for(i=0;i<520;i++)
 	{
@@ -1618,7 +1616,7 @@ int win()
 	setcolor(LIGHTCYAN);
 	sprintf(ch,"%d",pass);
 	settextstyle(8,0,2);
-	outtextxy(80,150,"YOU HAVE PASSED THE LEVEL--");
+	outtextxy(80,150,"YOU HAVE PASSED THE LEVEL: ");
 	outtextxy(460,150,ch);
 	if(time_re<=60)
 	{
@@ -1651,12 +1649,12 @@ int win()
 	}
 	settextstyle(7,0,1);
 	setcolor(GREEN);
-	outtextxy(60,250,"NOW MOVE ON TO NEXT LEVEL");
+	outtextxy(60,250,"NOW PROCEED TO THE NEXT LEVEL");
 	outtextxy(80,300,"All the best ........");
 	if(pass==6)
 	{
 		setcolor(BLACK);
-		outtextxy(60,250,"NOW MOVE ON TO NEXT LEVEL");
+		outtextxy(60,250,"NOW PROCEED TO THE NEXT LEVEL");
 		outtextxy(80,300,"All the best ........");
 		setcolor(GREEN);
 		outtextxy(150,250,"EXCELLENT.!.!.!.!.!.!..?????...");
@@ -1683,9 +1681,9 @@ int loss()
 	setcolor(GREEN);
 	settextstyle(7,0,4);
 	setcolor(GREEN);
-	outtextxy(100,100,"SORRY MACHA !!! you lost the game");
+	outtextxy(100,100,"SORRY !!! you have lost the game");
 	settextstyle(7,0,3);
-	outtextxy(100,150,"You lost all the chances.....!!!!!");
+
 	outtextxy(100,200,"Do you want to try again.........?");
 	setcolor(CYAN);
 	settextstyle(7,0,5);
