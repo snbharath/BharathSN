@@ -642,7 +642,7 @@ void error()
 	settextstyle(1,0,3);
 	outtextxy(150,150,"Sorry !!");
 	outtextxy(100,200,"No saved game or data to load.");
-	outtextxy(100,250,"please start a new game ");
+	outtextxy(100,250,"Please start a new game.");
 	outtextxy(200,400,"Press any key to go back << .");
 	getch();
 }
