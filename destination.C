@@ -641,7 +641,7 @@ void error()
 	setcolor(CYAN);
 	settextstyle(1,0,3);
 	outtextxy(150,150,"Sorry !!");
-	outtextxy(100,200,"There is no saved game or data to load.");
+	outtextxy(100,200,"No saved game or data to load.");
 	outtextxy(100,250,"please start a new game ");
 	outtextxy(200,400,"Press any key to go back << .");
 	getch();
@@ -1226,7 +1226,7 @@ int starring()
 	bar(35,11,598,18);
 	setcolor(LIGHTGREEN);
 	settextstyle(4,0,4);
-	outtextxy(200,100,"$ EDITOR $");
+	outtextxy(200,100,"CREDITS");
 	setfillstyle(INTERLEAVE_FILL,CYAN);
 	for(i=0;i<=400;i++)
 	{
